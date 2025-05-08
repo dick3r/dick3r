@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dick3r
 - 👀 I’m interested in Computer Science, Artificial Intelligence and Embedded Systems
-- 🌱 I’m currently a C#/.NET developer, learning Rust, NodeJS and Erlang
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 🌱 Doing projects of LLM's, ML, Deep Learning, Software Integrations and Software Apps with C#/.NET , Rust, Go, Typescript, Python and C++
+- 💞️ I’m looking to collaborate on Open Source Projects preferible with Linux
 - 📫 Reach me at gvqiniske@relay.firefox.com  
 
 <!---
